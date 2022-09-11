@@ -1,2 +1,2 @@
 # Shell-Script-Dados-da-maquina
-Puxa as informações básicas da máquina.
+Script gera um relatório com as principais informações do servidor.
